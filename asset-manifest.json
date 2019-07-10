@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/monsters-rodolex/static/css/main.922c30de.chunk.css",
+    "main.js": "/monsters-rodolex/static/js/main.ac9f30ac.chunk.js",
+    "main.js.map": "/monsters-rodolex/static/js/main.ac9f30ac.chunk.js.map",
+    "runtime~main.js": "/monsters-rodolex/static/js/runtime~main.6df6c14a.js",
+    "runtime~main.js.map": "/monsters-rodolex/static/js/runtime~main.6df6c14a.js.map",
+    "static/js/2.27e9ad4f.chunk.js": "/monsters-rodolex/static/js/2.27e9ad4f.chunk.js",
+    "static/js/2.27e9ad4f.chunk.js.map": "/monsters-rodolex/static/js/2.27e9ad4f.chunk.js.map",
+    "index.html": "/monsters-rodolex/index.html",
+    "precache-manifest.bef163f30bfaf09027340bd4f95ffea1.js": "/monsters-rodolex/precache-manifest.bef163f30bfaf09027340bd4f95ffea1.js",
+    "service-worker.js": "/monsters-rodolex/service-worker.js",
+    "static/css/main.922c30de.chunk.css.map": "/monsters-rodolex/static/css/main.922c30de.chunk.css.map"
+  }
+}
